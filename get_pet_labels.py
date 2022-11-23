@@ -47,7 +47,7 @@ def get_pet_labels(image_dir):
 
     # getting the file names
 
-    file_names = [file for file in listdir(image_dir)]
+    file_names = [file for file in listdir(image_dir) if file.startswith('.') == False]
 
     for file in file_names:
 
@@ -56,3 +56,5 @@ def get_pet_labels(image_dir):
         results_dic[file] = [" ".join(v)]
 
     return results_dic
+
+print(get_pet_labels("pet_images"))
