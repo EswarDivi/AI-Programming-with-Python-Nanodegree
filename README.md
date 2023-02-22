@@ -1,6 +1,6 @@
 # AI Programming with Python Nanodegree
 
-This Repo Contains the Projects I have done for the [AI Programming with Python Nanodegree Program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) Offered By [Udacity](https://www.udacity.com/)
+This Repo Contains the Projects I have done for the [AI Programming with Python Nanodegree Program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) Offered By [Udacity](https://www.udacity.com/).This Course was Sponsorsed by AWS for Qualifing [Student DeepRacer](https://student.deepracer.com).
 
 
 
